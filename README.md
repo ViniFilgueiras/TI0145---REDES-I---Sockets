@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Chat.png" alt="Chat Multi-Cliente" width="800">
+</p>
+
 # 💬 Chat Multi-Cliente em Python
 
 Um sistema de chat completo desenvolvido em Python com socket programming, suportando mensagens de texto, envio de arquivos e comunicação privada/global.
